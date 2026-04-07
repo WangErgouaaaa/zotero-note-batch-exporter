@@ -1,0 +1,24 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local packaging leftovers
+*.zip
+dist/*.zip
+
+# Project-local workflow files
+task-status.md
